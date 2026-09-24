@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore dlt files and secrets 
+.secrets.sql
+**/.dlt/
+
 # C extensions
 *.so
 
