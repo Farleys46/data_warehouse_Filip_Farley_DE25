@@ -5,3 +5,4 @@ logs/
 .env
 
 .secrets.sql
+dbt_internal_packages/
